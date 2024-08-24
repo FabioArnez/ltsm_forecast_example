@@ -1,0 +1,10 @@
+# ignore ALL .pyc files
+*.pyc
+credentials.json
+token_drive_v3.pickle
+# ignore ALL files in ANY directory named:
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+lightning_logs/
+version_*/
